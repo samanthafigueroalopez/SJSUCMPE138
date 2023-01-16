@@ -1,0 +1,31 @@
+CMPE-138 Fall 2022 Final Project 
+select e_id,ma_password from manager
+select * from employee where e_id = ?
+select e_id from manager
+select * from employee where e_id = ?
+select e_id from manager
+select ssn,gym_id from employee where e_id = ?
+select * from employee where e_id = ?
+select e_id from manager
+select ssn,gym_id from employee where e_id = ?
+select * from employee where e_id = ?
+select e_id from manager
+select ssn,gym_id from employee where e_id = ?
+select * from employee where e_id = ?
+select e_id from manager
+select ssn,gym_id from employee where e_id = ?
+select * from employee where e_id = ?
+select e_id from manager
+select ssn,gym_id from employee where e_id = ?
+select * from employee where e_id = ?
+select e_id from manager
+select ssn,gym_id from employee where e_id = ?
+select * from employee where e_id = ?
+select e_id from manager
+select ssn,gym_id from employee where e_id = ?
+select * from employee where e_id = ?
+select e_id from manager
+select ssn,gym_id from employee where e_id = ?
+select * from employee where e_id = ?
+select e_id from manager
+select ssn,gym_id from employee where e_id = ?
